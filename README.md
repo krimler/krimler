@@ -1,6 +1,6 @@
 # Hi, I’m Madhava Gaikwad!
 
-Senior Software Engineer working at the intersection of **AI alignment**, **privacy/DP**, and **ML systems**. I turn theory into **runnable, tested artifacts**.
+Senior Software Engineer working at the intersection of **Distributed Systems**, **AI alignment**, **privacy/DP**, and **ML systems**. I turn theory into **runnable, tested artifacts**.
 
 - **Recent papers (2025):** 
   [NPO](https://arxiv.org/pdf/2507.21131) ·
