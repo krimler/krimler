@@ -4,9 +4,13 @@ Senior Software Engineer working at the intersection of **Distributed Systems**,
 
 - **Recent papers (2025):** 
   [NPO](https://arxiv.org/pdf/2507.21131) ·
+  
   [Murphy’s Laws of AI Alignment](https://arxiv.org/pdf/2509.05381) ·
+  
   [Opal (Operator Algebra for RLHF)](https://arxiv.org/pdf/2509.11298) ·
+  
   [AVEC (Local LLM Privacy)](https://arxiv.org/pdf/2509.10561) ·
+  
   [ANSC (Capacity Health Scoring)](https://arxiv.org/pdf/2508.16119)
 
 - **What I build:** small, composable systems; clear Quickstarts; minimal tests/CI; figures you can reproduce.
