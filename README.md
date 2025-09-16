@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Madhava Gaikwad!
 
-<!--
-**krimler/krimler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer working at the intersection of **AI alignment**, **privacy/DP**, and **ML systems**. I turn theory into **runnable, tested artifacts**.
 
-Here are some ideas to get you started:
+- **Recent papers (2025):** 
+  [NPO](https://arxiv.org/pdf/2507.21131) ·
+  [Murphy’s Laws of AI Alignment](https://arxiv.org/pdf/2509.05381) ·
+  [Opal (Operator Algebra for RLHF)](https://arxiv.org/pdf/2509.11298) ·
+  [AVEC (Local LLM Privacy)](https://arxiv.org/pdf/2509.10561) ·
+  [ANSC (Capacity Health Scoring)](https://arxiv.org/pdf/2508.16119)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **What I build:** small, composable systems; clear Quickstarts; minimal tests/CI; figures you can reproduce.
+
+- **Focus areas:** alignment loops (RLHF & beyond), operator views of learning, differential privacy for LLMs, reliability at datacenter scale.
+
+- **Talk to me about:** turning research into demos, privacy-first LLMs, and robust infra for ML.
+
+📫 *Email: gaikwad.madhav@gmail.com *  ·
+* LinkedIn: https://www.linkedin.com/in/li69nux/ *
+📌 See pinned repos below for live demos.
