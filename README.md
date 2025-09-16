@@ -2,7 +2,8 @@
 
 Senior Software Engineer working at the intersection of **Distributed Systems**, **AI alignment**, **privacy/DP**, and **ML systems**. I turn theory into **runnable, tested artifacts**.
 
-- **Recent papers (2025):** 
+- **Recent papers (2025):**
+  
   [NPO](https://arxiv.org/pdf/2507.21131) ·
   
   [Murphy’s Laws of AI Alignment](https://arxiv.org/pdf/2509.05381) ·
