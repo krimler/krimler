@@ -6,11 +6,7 @@ Senior Software Engineer working at the intersection of **Distributed Systems**,
 
 - **Talk to me about:** privacy-first LLMs, and robust infra for ML.
 
-📫 *Email: gaikwad.madhav@gmail.com *  ·
+📫 *Email: gaikwad.madhav@gmail.com *
 * LinkedIn: https://www.linkedin.com/in/alignops/ *
-📌 See pinned repos below for live demos.
-
 ---
-
-**Lucid** — a daily-refreshed tracker of computer-science conference deadlines across nine research areas.
 [Web](https://krimler.github.io/paper-tracker/) · [Panel](https://paper-tracker-madhava.streamlit.app/) · [Code](https://github.com/krimler/paper-tracker)
