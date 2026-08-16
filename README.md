@@ -6,14 +6,14 @@
      Visitor counter is real (komarev.com, username=krimler). -->
 
 <div align="center">
-
+ 
 <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/rainbow.gif" alt="rainbow divider" width="100%" height="8">
 
 <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/construction/construction6.gif" alt="under construction banner">
 
 # ~\*~ Hi, I am a Distinguished Engineer ~\*~
 
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=19&duration=2600&pause=700&color=00FF00&background=00000000&center=true&vCenter=true&width=520&height=38&lines=~*~+WELCOME+TO+MY+HOMEPAGE+~*~;DISTRIBUTED+SYSTEMS+x+AI+ALIGNMENT;PRIVACY%2FDP+x+ML+SYSTEMS;THEORY+-%3E+RUNNABLE%2C+TESTED+SOFTWARE" alt="Welcome to my homepage — Distributed Systems x AI Alignment, Privacy/DP x ML Systems">
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=19&duration=2600&pause=700&color=00FF00&background=00000000&center=true&vCenter=true&width=520&height=38&lines=~*~+WELCOME+TO+MY+HOMEPAGE+~*~;BEST+VIEWED+IN+NETSCAPE+NAVIGATOR+4.0" alt="Welcome to my homepage — best viewed in Netscape Navigator 4.0">
 
 </div>
 
@@ -51,6 +51,7 @@
 
 | | project | what it is |
 |:---:|:---|:---|
+| <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/new2.gif" alt="new!"> | [<kbd> 🗜️ ba64 </kbd>](https://ba64-project.github.io/) | binary-to-text encoding that's never larger than base64 |
 | <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/new2.gif" alt="new!"> | [<kbd> 🔧 Workshop Tracker </kbd>](https://krimler.github.io/workshop-tracker/) | keep tabs on ML workshops |
 | <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/hot.gif" alt="hot!"> | [<kbd> 🧠 NeurIPS 2026 Workshops </kbd>](https://neurips2026-workshops.github.io/neurips2026-workshops/) | the NeurIPS 2026 workshop lineup |
 | <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/new2.gif" alt="new!"> | [<kbd> ✈️ preflight </kbd>](https://github.com/krimler/preflight) | text hygiene & revision pipeline for plain text and LaTeX |
