@@ -1,47 +1,40 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     ~*~ 90s GEOCITIES EDITION · GITHUB PROFILE README ~*~
-     GitHub sanitizes CSS, <marquee> and <blink>, so the retro vibes
-     come from ASCII art, emoji, <kbd> buttons, badges, a typing
-     banner, and a REAL visitor counter (komarev, username=krimler).
-     Guestbook = your GitHub issues. Want authentic vintage GIFs?
-     Raid https://gifcities.org and drop <img> tags anywhere.
-═══════════════════════════════════════════════════════════════ -->
+<!-- ~*~ 90s homepage · GitHub profile README ~*~
+     All GIFs are real GeoCities-era gifs, hotlinked from
+     github.com/schochastics/quartocities (verified live).
+     More in that repo's /img folder if you want to swap any:
+     dividers 1-9, dancing banana, hacker, mailbox, flames...
+     Visitor counter is real (komarev.com, username=krimler). -->
 
 <div align="center">
 
-🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪
+<img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/rainbow.gif" alt="rainbow divider" width="100%" height="8">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=20&duration=2500&pause=700&color=00FF00&background=00000000&center=true&vCenter=true&width=520&height=40&lines=~*~+WELCOME+TO+MY+CYBER-HOMEPAGE+~*~;BEST+VIEWED+IN+NETSCAPE+NAVIGATOR+4.0;U+R+VISITOR+NO.+001337;PLZ+SIGN+MY+GUESTBOOK+B4+U+GO!!" alt="~*~ WELCOME TO MY CYBER-HOMEPAGE ~*~">
+<img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/construction/construction6.gif" alt="under construction banner">
 
-# ~\*~ Hi, I am a DISTINGUISHED ENGINEER ~\*~
+# ~\*~ Hi, I am a Distinguished Engineer ~\*~
 
-### 🚧🚧🚧 THIS PAGE IS UNDER CONSTRUCTION — PARDON OUR DUST 🚧🚧🚧
-
-<sub>⭐ best experienced over a 56k modem with a can of Surge ⭐</sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=19&duration=2600&pause=700&color=00FF00&background=00000000&center=true&vCenter=true&width=520&height=38&lines=~*~+WELCOME+TO+MY+HOMEPAGE+~*~;DISTRIBUTED+SYSTEMS+x+AI+ALIGNMENT;PRIVACY%2FDP+x+ML+SYSTEMS;THEORY+-%3E+RUNNABLE%2C+TESTED+SOFTWARE" alt="Welcome to my homepage — Distributed Systems x AI Alignment, Privacy/DP x ML Systems">
 
 </div>
 
-```text
-┌───────────────────────────────────────────────
-│  C:\> whoami
-│  DISTINGUISHED_ENGINEER.EXE
-│
-│  C:\> run theory_to_software.bat
-│  > compiling theory .............. [ OK ]
-│  > running tests ................. [PASS]
-│  > shipping ...................... [DONE]
-│
-│  C:\> _
-└───────────────────────────────────────────────
-```
+<table>
+<tr>
+<td width="120" align="center"><img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/computer-01.gif" alt="90s computer" width="100"></td>
+<td>
 
-> 📟 **Greetings, cyber-traveler!** You have reached the homepage of a **Distinguished Engineer** working at the intersection of **Distributed Systems** ✕ **AI Alignment** ✕ **Privacy/DP** ✕ **ML Systems**.
->
-> ⚡ *« I turn theory into runnable, tested software. »* ⚡
+**Greetings, traveler!** I work at the intersection of **Distributed Systems**, **AI Alignment**, **Privacy / Differential Privacy**, and **ML Systems**.
+
+⚡ *« I turn theory into runnable, tested software. »* ⚡
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪
+<img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/spinningearth.gif" alt="spinning globe" width="36"> &nbsp;[<kbd> &nbsp;🌐 VISIT MY BLOG → krimler.github.io&nbsp; </kbd>](https://krimler.github.io/)&nbsp; <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/spinningearth.gif" alt="spinning globe" width="36"> <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/new2.gif" alt="new!">
+
+<img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/rainbow.gif" alt="rainbow divider" width="100%" height="8">
 
 ## ⭐ F O C U S · A R E A S ⭐
 
@@ -52,57 +45,27 @@
 | 🔐 | **Security & differential privacy** for LLMs |
 | 🏗️ | **Reliability** at datacenter scale |
 
-## 🎵 C O O L · S T U F F · I · M A D E 🎵
+<img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/divider/divider7.gif" alt="flame divider">
 
-[<kbd> 🔧 Workshop Tracker </kbd>](https://krimler.github.io/workshop-tracker/) **⚡NEW!⚡** &nbsp; [<kbd> 🧠 NeurIPS 2026 Workshops </kbd>](https://neurips2026-workshops.github.io/neurips2026-workshops/) **🔥HOT!🔥**
+## 🔥 T H I N G S · I · B U I L T 🔥
 
-[<kbd> 🚀 preflight </kbd>](https://github.com/krimler/preflight) **⚡NEW!⚡** &nbsp; [<kbd> 📜 Paper Tracker </kbd>](https://krimler.github.io/paper-tracker/) **😎RAD!😎**
+| | project | what it is |
+|:---:|:---|:---|
+| <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/new2.gif" alt="new!"> | [<kbd> 🔧 Workshop Tracker </kbd>](https://krimler.github.io/workshop-tracker/) | keep tabs on ML workshops |
+| <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/hot.gif" alt="hot!"> | [<kbd> 🧠 NeurIPS 2026 Workshops </kbd>](https://neurips2026-workshops.github.io/neurips2026-workshops/) | the NeurIPS 2026 workshop lineup |
+| <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/new2.gif" alt="new!"> | [<kbd> ✈️ preflight </kbd>](https://github.com/krimler/preflight) | text hygiene & revision pipeline for plain text and LaTeX |
+| <img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/hot.gif" alt="hot!"> | [<kbd> 📜 Paper Tracker </kbd>](https://krimler.github.io/paper-tracker/) | keep tabs on papers |
 
-🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪
-
-## 📟 HIT COUNTER 📟
+<img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/rainbow.gif" alt="rainbow divider" width="100%" height="8">
 
 **You are visitor number:**
 
 <img src="https://komarev.com/ghpvc/?username=krimler&style=for-the-badge&color=brightgreen&label=VISITORS" alt="visitor counter">
 
-<sub>(counter proudly served from the 486 in my garage)</sub>
+<img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/construction/construction1.gif" alt="construction tape">
 
-<br>
+<img src="https://raw.githubusercontent.com/schochastics/quartocities/main/img/mchammer.gif" alt="dancing MC Hammer" width="50">
 
-🔗 *proud member of the DISTRIBUTED SYSTEMS WEBRING* 🔗
-
-**[ « PREV ](#) · [ 🎲 RANDOM ](#) · [ NEXT » ](#)**
-
-✍️ **[ SIGN MY GUESTBOOK!! ](https://github.com/krimler/krimler/issues/new?title=Signing+your+guestbook&body=~*~+cool+page!!+~*~)** · [ 📖 view guestbook ](https://github.com/krimler/krimler/issues)
-
-</div>
-
-<details>
-<summary>💿 <b>click here 4 webmaster credentials</b> 💿</summary>
-
-<br>
-
-- 🏆 certified in **HTML 3.2** (self-certified)
-- 🏘️ GeoCities neighborhood: **SiliconValley/Heights/1337**
-- 📟 ICQ: *ask me* · IRC: `#distributed-systems` on EFnet
-- 🖱️ this page contains **zero** JavaScript popups (you're welcome)
-
-</details>
-
-<div align="center">
-
-🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪
-
-![Best viewed in Netscape Navigator 4.0](https://img.shields.io/badge/BEST_VIEWED_IN-NETSCAPE_NAVIGATOR_4.0-000080?style=flat-square)
-![800x600, 256 colors](https://img.shields.io/badge/RESOLUTION-800x600_256_COLORS-808080?style=flat-square)
-![Made with Notepad on Win95](https://img.shields.io/badge/MADE_WITH-NOTEPAD.EXE_ON_WIN95-C0C0C0?style=flat-square)
-![Y2K compliant](https://img.shields.io/badge/Y2K-COMPLIANT*-brightgreen?style=flat-square)
-
-<sub>*probably</sub>
-
-<sub>© 1997 (feels like it) · last updated: yesterday, probably · no frames were harmed in the making of this page</sub>
-
-<sub>🖤 don't forget to bookmark this page (CTRL+D) and tell your friends on IRC 🖤</sub>
+<sub>thanks for visiting · handmade HTML energy since the 90s · gifs rescued from the GeoCities era</sub>
 
 </div>
