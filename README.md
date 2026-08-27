@@ -13,7 +13,7 @@
 
 # ~\*~ Hi, I am a Principal Engineer ~\*~
 
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=19&duration=2600&pause=700&color=00FF00&background=00000000&center=true&vCenter=true&width=520&height=38&lines=~*~+WELCOME+TO+MY+HOMEPAGE+~*~;BEST+VIEWED+IN+NETSCAPE+NAVIGATOR+4.0" alt="Welcome to my homepage — best viewed in Netscape Navigator 4.0">
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+New&size=19&duration=2600&pause=700&color=00FF00&background=00000000&center=true&vCenter=true&width=520&height=38&lines=~*~+WELCOME+TO+MY+HOMEPAGE+~*~;BEST+VIEWED+IN+NETSCAPE+NAVIGATOR+4.0" alt="Welcome to my homepage — best viewed in Google Chrome">
 
 </div>
 
